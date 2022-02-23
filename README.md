@@ -1,2 +1,2 @@
 # IndusDraw
-Click: https://indusdraw.tech/
+Click here: https://indusdraw.tech/
