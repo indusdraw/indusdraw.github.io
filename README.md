@@ -1,2 +1,2 @@
 # IndusDraw
-Click here: https://indusdraw.tech/
+Click here: https://indusdraw.software/
